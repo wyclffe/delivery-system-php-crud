@@ -1,6 +1,6 @@
 <?php
 $hn = 'localhost';
-$db = 'shibytest';
+$db = 'shibydelivery';
 $un = 'root';
 $pw = '';
 
